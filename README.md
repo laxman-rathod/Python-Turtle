@@ -2,6 +2,10 @@
 
 This is a simple Python project that uses the Turtle graphics library to display a "Happy Holi" text. The project is perfect for beginners who want to learn how to use the Turtle graphics library in Python.
 
+#Snapshots
+
+![Uploading Screenshot 2024-06-23 160657.png…]()
+
 ## Features
 
 - Displays "Happy Holi" text on the screen using Turtle graphics
@@ -84,4 +88,4 @@ Open a pull request.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE). 
